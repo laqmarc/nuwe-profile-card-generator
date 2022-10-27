@@ -33,7 +33,7 @@
 
 ## :dart: About ##
 
-This is a simple card styles to nuwe envoirement
+This is a simple card styles to nuwe envoirement that you can see [here](nuwe.quexulo.cat/profile-card/).
 
 ## :rocket: Technologies ##
 
@@ -50,7 +50,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) in
 
 ```bash
 # Clone this project
-$ git clone https://github.com/laqmarc/nuwe-profile-card-generator that you can see [here](nuwe.quexulo.cat/profile-card/).
+$ git clone https://github.com/laqmarc/nuwe-profile-card-generator 
 
 # Access
 $ cd nuwe-profile-card-generator
