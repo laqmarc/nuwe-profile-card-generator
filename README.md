@@ -33,7 +33,7 @@
 
 ## :dart: About ##
 
-This is a simple card styles to nuwe envoirement that you can see [here](nuwe.quexulo.cat/profile-card/).
+This is a simple card styles to nuwe envoirement that you can see [here](https://nuwe.quexulo.cat/profile-card/).
 
 ## :rocket: Technologies ##
 
