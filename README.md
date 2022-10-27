@@ -50,7 +50,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) in
 
 ```bash
 # Clone this project
-$ git clone https://github.com/laqmarc/nuwe-profile-card-generator
+$ git clone https://github.com/laqmarc/nuwe-profile-card-generator that you can see [here](nuwe.quexulo.cat/profile-card/).
 
 # Access
 $ cd nuwe-profile-card-generator
