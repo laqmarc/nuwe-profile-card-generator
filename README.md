@@ -39,7 +39,7 @@ This is a simple card styles to nuwe envoirement
 
 The following tools were used in this project:
 
-- [HTML5]https://developer.mozilla.org/es/docs/Glossary/HTML5)
+- [HTML5](https://developer.mozilla.org/es/docs/Glossary/HTML5)
 - [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ## :white_check_mark: Requirements ##
@@ -66,8 +66,7 @@ $ yarn start
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
+Public domain
 
 Made with :heart: by <a href="https://github.com/laqmarc" target="_blank">laqmarc</a>
 
