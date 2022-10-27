@@ -3,7 +3,6 @@
 
   &#xa0;
 
-  <!-- <a href="https://nuweprofilecardgenerator.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Nuwe Profile Card Generator</h1>
@@ -17,20 +16,8 @@
 
   <img alt="License" src="https://img.shields.io/github/license/laqmarc/nuwe-profile-card-generator?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/laqmarc/nuwe-profile-card-generator?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/laqmarc/nuwe-profile-card-generator?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/laqmarc/nuwe-profile-card-generator?color=56BEB8" /> -->
 </p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Nuwe Profile Card Generator 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -46,27 +33,18 @@
 
 ## :dart: About ##
 
-Describe your project
-
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+This is a simple card styles to nuwe envoirement
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [HTML5]https://developer.mozilla.org/es/docs/Glossary/HTML5)
+- [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) installed.
 
 ## :checkered_flag: Starting ##
 
@@ -91,7 +69,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/laqmarc" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/laqmarc" target="_blank">laqmarc</a>
 
 &#xa0;
 
